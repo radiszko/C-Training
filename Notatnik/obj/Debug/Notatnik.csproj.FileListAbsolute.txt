@@ -1,0 +1,10 @@
+C:\Users\radis\Documents\GitHub\VMDevelopment\Notatnik\bin\Debug\Notatnik.exe.config
+C:\Users\radis\Documents\GitHub\VMDevelopment\Notatnik\bin\Debug\Notatnik.exe
+C:\Users\radis\Documents\GitHub\VMDevelopment\Notatnik\bin\Debug\Notatnik.pdb
+C:\Users\radis\Documents\GitHub\VMDevelopment\Notatnik\obj\Debug\Notatnik.csprojAssemblyReference.cache
+C:\Users\radis\Documents\GitHub\VMDevelopment\Notatnik\obj\Debug\Notatnik.Notatnik.resources
+C:\Users\radis\Documents\GitHub\VMDevelopment\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+C:\Users\radis\Documents\GitHub\VMDevelopment\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+C:\Users\radis\Documents\GitHub\VMDevelopment\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+C:\Users\radis\Documents\GitHub\VMDevelopment\Notatnik\obj\Debug\Notatnik.exe
+C:\Users\radis\Documents\GitHub\VMDevelopment\Notatnik\obj\Debug\Notatnik.pdb
